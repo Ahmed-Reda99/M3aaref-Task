@@ -18,7 +18,7 @@ A Laravel-based web application that uses AI (Gemini) and YouTube Data API to di
 ## 🛠️ Tech Stack
 
 - Laravel 10
-- Bootstrap 4
+- Bootstrap 4 & 5
 - Gemini AI API
 - YouTube Data API v3
 - MySQL
@@ -30,8 +30,8 @@ A Laravel-based web application that uses AI (Gemini) and YouTube Data API to di
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/Ahmed-Reda99/M3aaref-Task
+cd to the directory
 ```
 
 ### 2. Install Dependencies
@@ -64,7 +64,7 @@ DB_PASSWORD=your_password
 
 # Gemini AI API
 GEMINI_API_KEY=your_gemini_api_key
-GEMINI_REQUEST_TIMEOUT=30
+GEMINI_REQUEST_TIMEOUT=60
 
 # YouTube Data API
 YOUTUBE_API_KEY=your_youtube_api_key
